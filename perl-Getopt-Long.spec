@@ -7,7 +7,7 @@
 #
 Name     : perl-Getopt-Long
 Version  : 2.57
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/J/JV/JV/Getopt-Long-2.57.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/J/JV/JV/Getopt-Long-2.57.tar.gz
 Summary  : 'Module to handle parsing command line options'
